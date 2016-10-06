@@ -1,0 +1,29 @@
+# Kodi Media Center language file
+# Addon Name: ExtroPower
+# Addon id: plugin.program.extropower
+# Addon version: 1.0.0
+# Addon Provider: Extro
+
+msgid ""
+msgstr ""
+
+
+msgctxt "#32001"
+msgid "Suspend"
+msgstr "Suspendă"
+
+msgctxt "#32002"
+msgid "Reboot"
+msgstr "Repornire"
+
+msgctxt "#32003"
+msgid "Reboot to Android"
+msgstr "Repornire Android"
+
+msgctxt "#32004"
+msgid "Reboot to Debian"
+msgstr "Repornire Debian"
+
+msgctxt "#32005"
+msgid "Power Options"
+msgstr "Opțiuni de alimentare"
